@@ -4,6 +4,17 @@
 
 This repository hosts the front-end clone of Dropbox, meticulously crafted using only HTML and CSS. This project aims to replicate the user interface of Dropbox, focusing on its essential features and aesthetic appeal, demonstrating the capabilities of pure HTML and CSS in creating responsive and user-friendly interfaces.
 
+### Demo Video
+[![Click to Watch Video](https://img.youtube.com/vi/hoddb0_E4DE/0.jpg)](https://www.youtube.com/watch?v=hoddb0_E4DE)
+
+
+Here is a brief demo of our website's features:
+
+<video width="640" height="360" controls>
+    <source src="https://drive.google.com/file/d/1zE2dMc3mT4DLkuyiOlSlliZJ3Mtk518-/view?usp=sharing.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
+
 ## Features
 
 - **UI Design**: A clean and intuitive interface resembling Dropbox.
