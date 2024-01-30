@@ -1,4 +1,4 @@
-# Dropbox Frontend Clone
+# Dropbox Frontend 
 
 ## Introduction
 
